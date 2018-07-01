@@ -1,4 +1,5 @@
-[github]
+> use GitHub...
+
 -> open github in browser, login, create repository, 
 -> in desktop goto your project folder
 -> Right click “git bash here”. Git cmd line interface popup.
