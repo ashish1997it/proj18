@@ -1,6 +1,8 @@
 > use GitHub...
 
-'''180629'''
+'''
+180629
+'''
 
 * open github in browser, login, create repository, 
 * in desktop goto your project folder
