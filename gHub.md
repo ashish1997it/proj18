@@ -7,9 +7,9 @@
 * Right click “git bash here”. Git cmd line interface popup.
 * write “**git init**” press Enter.
 * write “**git add .**” press Enter.
-* write "**git commit -m 'YOUR-COMMENTS'**", for commit. Press Enter.
+* write "**git commit -m 'YOUR-COMMENTS'**", for commit. Press Enter.<br>
     (if show: fatal: remote origin already exists. => git remote rm origin)
-* write “**git remote add origin YOUR-GitHub-repLink**”. Press Enter.
+* write “**git remote add origin YOUR-GitHub-repLink**”. Press Enter.<br>
     (git push origin master -f)
 * write “**git push -u origin master**”. Press Enter.
 
