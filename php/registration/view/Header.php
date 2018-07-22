@@ -43,7 +43,6 @@ div:empty {
 
 a, a:hover{
 	color: black;
-  padding: 10px;
 }
 
 </style>
@@ -62,10 +61,10 @@ a, a:hover{
     </div>
 	<ul class="nav navbar-nav">
       <li class="active"><a href="<?php echo $projPath.'/view/indexNew.php'; ?>">Home</a></li>
-      <li><a href="<?php echo $projPath.'/view/formInsert.php'; ?>">Insert</a></li>
-      <li><a href="<?php echo $projPath.'/view/formUpdate.php'; ?>">Update</a></li>
+      <li><a href="#">Insert</a></li>
+      <li><a href="#">Update</a></li>
       <li><a href="#">Select</a></li>
-      <li><a href="<?php echo $projPath.'/view/formDelete.php'; ?>">Delete</a></li>
+      <li><a href="#">Delete</a></li>
 	  <li><a href="<?php echo $projPath.'/view/PageSignUp.php'; ?>">SignUp</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
@@ -75,6 +74,7 @@ a, a:hover{
 </nav>
 
 <h1>Welcome to CodeMagic</h1>
+
 
 
 </body>
