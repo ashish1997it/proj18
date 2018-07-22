@@ -1,0 +1,4 @@
+proj: Registation
+tech: php, mySql
+#180716
+desc: features of Signup, Signin, forgot password. using concept of MD5(pwd), SHA256 for token, err404 page redirect.
